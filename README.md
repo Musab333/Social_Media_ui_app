@@ -1,4 +1,4 @@
-![Chats Screen](https://github.com/user-attachments/assets/97c06502-9cc5-4264-a68f-bf682fa12f98)# social_media_ui_app ✅
+# social_media_ui_app ✅
 [-] Home Screen
 
 ![home_screen](https://github.com/user-attachments/assets/af786ce6-76f0-4fd2-999d-baced99ef0bd)
